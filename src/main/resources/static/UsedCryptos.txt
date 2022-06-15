@@ -1,0 +1,5 @@
+BTC
+DOGE
+ETH
+LTC
+XRP
