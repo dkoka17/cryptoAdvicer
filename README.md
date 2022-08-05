@@ -1,5 +1,7 @@
 # cryptoAdvicer
 
+Task Description: Crypto Recommendations Service.pdf
+
 swagger link: http://localhost:8080/swagger-ui/#/
 
 static Folder has file UsedCrypto.txt where are all names of cryptos used.
