@@ -1,6 +1,6 @@
 # cryptoAdvicer
 
-Task Description: Crypto Recommendations Service.pdf
+Task Description: Crypto Recommendations Service.pdf https://github.com/dkoka17/cryptoAdvicer/blob/76c2083a71fd85f3b94b27ba64aa83b0db5d51e8/Crypto%20Recommendations%20Service.pdf
 
 swagger link: http://localhost:8080/swagger-ui/#/
 
