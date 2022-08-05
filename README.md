@@ -1,6 +1,6 @@
 # cryptoAdvicer
 
-Task Description:  [a relative link](Crypto Recommendations Service.pdf)
+Task Description:  [a relative link](Crypto%20Recommendations%20Service.pdf)
 
 swagger link: http://localhost:8080/swagger-ui/#/
 
